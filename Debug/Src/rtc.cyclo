@@ -1,0 +1,8 @@
+D:/HOC_TAP/02_PIF/PIF_Courses/EmbeddedC/udemy_course/STM32BareMetal-Projects/00_test/chip_headers/CMSIS/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+../Src/rtc.c:3:6:RTC_clk_config	2
+../Src/rtc.c:39:6:RTC_config_start	2
+../Src/rtc.c:51:6:RTC_config_cmpt	2
+../Src/rtc.c:63:6:RTC_config	1
+../Src/rtc.c:82:6:RTC_interrupt_en	1
+../Src/rtc.c:101:6:RTC_set_alarm	1
+../Src/rtc.c:118:6:RTC_set_counter	1

@@ -1,0 +1,3 @@
+../Src/gpio.c:3:6:GPIO_Pin_Configure	10
+../Src/gpio.c:71:6:GPIO_set_out_pin	5
+../Src/gpio.c:100:6:GPIO_toogle_out_pin	5

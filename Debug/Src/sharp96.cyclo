@@ -1,0 +1,16 @@
+../Src/sharp96.c:5:16:Toggle_VCOM	1
+../Src/sharp96.c:10:13:LCD_send_byte	1
+../Src/sharp96.c:14:13:LCD_send_cmd	1
+../Src/sharp96.c:19:16:Reverse_data	1
+../Src/sharp96.c:24:6:LCD_send_toggle_VCOM	1
+../Src/sharp96.c:31:6:LCD_display	1
+../Src/sharp96.c:35:6:LCD_init	1
+../Src/sharp96.c:48:6:LCD_enable	1
+../Src/sharp96.c:53:6:LCD_disable	1
+../Src/sharp96.c:58:6:LCD_transmit_begin	1
+../Src/sharp96.c:62:6:LCD_transmit_cmplt	1
+../Src/sharp96.c:66:6:LCD_clear_screen	1
+../Src/sharp96.c:75:6:LCD_send_image	3
+../Src/sharp96.c:100:6:LCD_send_1line	2
+../Src/sharp96.c:116:6:LCD_get_char8x8	2
+../Src/sharp96.c:127:6:LCD_get_string	3

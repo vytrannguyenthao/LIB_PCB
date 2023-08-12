@@ -1,0 +1,7 @@
+../Src/tim.c:3:6:Timer4ConfigPWMDMA	4	static
+../Src/tim.c:59:6:Timer4ConfigPWM	4	static
+../Src/tim.c:111:6:Timer4_pwm_set_dutycycle	16	static
+../Src/tim.c:136:6:Timer3Config	4	static
+../Src/tim.c:159:6:Timer2Config	4	static
+../Src/tim.c:184:6:Delay_us	16	static
+../Src/tim.c:197:6:Delay_ms	24	static

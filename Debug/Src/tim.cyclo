@@ -1,0 +1,7 @@
+../Src/tim.c:3:6:Timer4ConfigPWMDMA	2
+../Src/tim.c:59:6:Timer4ConfigPWM	2
+../Src/tim.c:111:6:Timer4_pwm_set_dutycycle	5
+../Src/tim.c:136:6:Timer3Config	2
+../Src/tim.c:159:6:Timer2Config	2
+../Src/tim.c:184:6:Delay_us	2
+../Src/tim.c:197:6:Delay_ms	2

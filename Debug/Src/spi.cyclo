@@ -1,0 +1,7 @@
+../Src/spi.c:3:6:SPI1_pin_init	1
+../Src/spi.c:8:6:SPI1_set_LSB	1
+../Src/spi.c:12:6:SPI1_set_MSB	1
+../Src/spi.c:16:6:SPI1_enable	1
+../Src/spi.c:20:6:SPI1_disable	1
+../Src/spi.c:24:6:SPI1_master_config	1
+../Src/spi.c:70:6:SPI1_transmit_data	4
